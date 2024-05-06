@@ -1,0 +1,8 @@
+name: "Hello World"
+description: "Prints hello world"
+runs:
+  using: "composite"
+  steps:
+    - name: "Print hello world"
+      run: echo "Hello world!"
+      shell: bash
