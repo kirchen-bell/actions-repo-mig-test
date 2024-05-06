@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run Hello World action
-        uses: sarisia/actions-repo-mig-test@main
+        uses: kirchen-bell2/actions-repo-mig-test@main
