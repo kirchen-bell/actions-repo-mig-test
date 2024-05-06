@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run Hello World action
-        uses: sarisia/hello-world-action@main
+        uses: sarisia/actions-repo-mig-test@main
